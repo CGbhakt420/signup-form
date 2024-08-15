@@ -118,10 +118,7 @@ input:invalid {
     border-width: 1px;
   }
   
-input:valid {
-    border-color: green;
-    border-width: 1px;
-  }
+
 
 
 button{
